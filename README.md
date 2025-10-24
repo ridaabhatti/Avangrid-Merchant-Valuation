@@ -1,5 +1,5 @@
 # Avangrid Merchant Renewable Valuation – P75 Risk Model
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<yourusername>/avangrid-merchant-valuation/blob/main/Avangrid_P75_RenewableValuation.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ridaabhatti/avangrid-merchant-valuation/blob/main/Avangrid_P75_RenewableValuation.ipynb)
 
 ## Overview
 This project builds a transparent, data-driven valuation framework for renewable assets whose PPAs have expired. It estimates risk-adjusted fixed prices (P75) where the hedge has a 75% probability of outperforming merchant market revenues.
